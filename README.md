@@ -1,7 +1,7 @@
 # nanumSquareNeo
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "nanumSquareNeo";
     font-weight: 300;
     font-style: normal;
